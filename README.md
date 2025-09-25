@@ -88,6 +88,3 @@ email=alexey@gmail.com
 - DDD (Entity, Repository, Service, Controller)
 
 ---
-
-## 📖 Лицензия
-MIT
