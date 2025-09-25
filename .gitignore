@@ -1,0 +1,38 @@
+# PhpStorm project files
+.idea
+
+# NetBeans project files
+nbproject
+
+# Zend Studio for Eclipse project files
+.buildpath
+.project
+.settings
+
+# Windows thumbnail cache
+Thumbs.db
+
+# Mac DS_Store Files
+.DS_Store
+
+# Composer vendor dir
+/vendor/
+/composer.phar
+/composer.lock
+
+# Yii2 runtime & assets (generated automatically)
+/runtime/
+/web/assets/
+
+# PHPUnit
+phpunit.phar
+/phpunit.xml
+/tests/_output/*
+/tests/_support/_generated
+
+# Vagrant
+/.vagrant
+
+# Docker
+docker-compose.override.yml
+.env
