@@ -22,7 +22,6 @@ Thumbs.db
 
 # Yii2 runtime & assets (generated automatically)
 /runtime/
-/web/assets/
 
 # PHPUnit
 phpunit.phar
