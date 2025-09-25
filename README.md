@@ -18,7 +18,7 @@
 ## 🚀 Установка
 1. Клонировать репозиторий:
    ```bash
-   git clone https://github.com/username/yii2-crud-ddd-example.git
+   git clone https://github.com/Siemensixone1119/crud
    cd yii2-crud-ddd-example
    ```
 2. Установить зависимости:
