@@ -19,7 +19,7 @@
 1. Клонировать репозиторий:
    ```bash
    git clone https://github.com/Siemensixone1119/crud
-   cd yii2-crud-ddd-example
+   cd crud
    ```
 2. Установить зависимости:
    ```bash
@@ -29,7 +29,7 @@
    ```php
    return [
        'class' => 'yii\db\Connection',
-       'dsn' => 'mysql:host=127.0.0.1;dbname=testdb',
+       'dsn' => 'pgsql:host=localhost;dbname=ddd',
        'username' => 'root',
        'password' => '',
        'charset' => 'utf8',
